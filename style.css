@@ -111,6 +111,9 @@ header{
 .bordes p{
 	font-size:12px;
 }
+.inline{
+	display:inline-block;
+}
 .fondo2{
 	background-image: url('./img/contacto.png');
 	background-size: 100%;

@@ -81,7 +81,7 @@ header{
 	height:70vh;
 }
 .fondo{
-	background-image: url('./img/portada.jpg');
+	background-image: url('./img/portada.png');
 	background-size: 100%;
 	color: white;
 	padding: 1.5em 3em 0 3em;
